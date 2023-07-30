@@ -1,5 +1,7 @@
 # GSU-Share
 The primary objective of this project is to raise awareness about these resources and encourage students to make the most of them during their time at Georgia State University.
+
+IV.	Description
 Key features of the GSU Share website include:
 1.	Home Page: The landing page of the website serves as an entry point for users, displaying an overview of the available resources and latest updates, along with options to log in or sign up for an account.
 2.	Login / Sign Up: Users can create an account using their email address and a password. Upon successful registration, they can log in to access their personal dashboard, where they can post and view resources, and manage their account settings.
@@ -11,6 +13,7 @@ Key features of the GSU Share website include:
 8.	Contact Us Page: Users can reach out to the GSU Share team through a contact form provided on this page, allowing for efficient communication and feedback.
 9.	Terms and Conditions Page: This page outlines the rules and guidelines governing the use of GSU Share, ensuring that users understand their rights and responsibilities while using the platform.
 By incorporating these features, the GSU Share website aims to provide a comprehensive and easily navigable platform for students and staff at Georgia State University, fostering a collaborative and supportive community where users can effectively access and share information about available resources.
+
 V.	Installation
 This section outlines the steps and modules required to execute the GSU Share web application. The current setup hosts the website locally, and we plan to transition to IONOS, a cloud server renowned for its startup-friendly features.
 Step 1: Set up the local development environment To begin, ensure that you have a suitable Integrated Development Environment (IDE) installed on your computer. Popular choices include Visual Studio Code, Sublime Text, or Atom.
@@ -26,4 +29,3 @@ npm install
 Step 5: Set up the MongoDB database Install MongoDB on your local machine by following the official MongoDB installation guide (https://docs.mongodb.com/manual/installation/). After installation, create a database and collection for the GSU Share project.
 Step 6: Configure environment variables Create a .env file in the project directory to store sensitive information, such as database credentials and session secrets. Make sure to include this file in your .gitignore to prevent accidental exposure of sensitive data.
 Step 7: Start the development server Run the following command in the project directory to start the development server:
-![image](https://github.com/KalebBefekadu/GSU-Share/assets/66847824/b9d0aab1-a58e-45e3-9ba8-25208cc38893)
