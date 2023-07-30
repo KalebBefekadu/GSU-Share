@@ -16,7 +16,9 @@ Key features of the GSU Share website include:
 By incorporating these features, the GSU Share website aims to provide a comprehensive and easily navigable platform for students and staff at Georgia State University, fostering a collaborative and supportive community where users can effectively access and share information about available resources.
 
 V.	Installation
+
 This section outlines the steps and modules required to execute the GSU Share web application. The current setup hosts the website locally, and we plan to transition to IONOS, a cloud server renowned for its startup-friendly features.
+
 Step 1: Set up the local development environment To begin, ensure that you have a suitable Integrated Development Environment (IDE) installed on your computer. Popular choices include Visual Studio Code, Sublime Text, or Atom.
 
 Step 2: Install necessary software and dependencies For this project, we will be using the following technologies and dependencies:
